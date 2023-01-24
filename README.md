@@ -15,4 +15,4 @@ Após a execução do programa é gerado um arquivo csv com o histórico de metr
 ### Resultado com curva
 ![curva](images/curva.png)
 ### Vídeo de Apresentação
-TODO
+[Vídeo de apresentação](https://youtu.be/QSvhN5Ax0Bg)
